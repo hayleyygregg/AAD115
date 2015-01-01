@@ -1,4 +1,10 @@
 AAD115
 ======
 
-For Assessment
+For Assessment:
+
+* Flickr Collection: https://www.flickr.com/photos/hayleygregg/collections/72157649225119000/
+
+* Github Contributions:
+
+![Github Contributions](github.png)
