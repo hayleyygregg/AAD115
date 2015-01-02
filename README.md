@@ -9,6 +9,8 @@ For Assessment:
 
 * Personal Page:
 
+* Tumblr: [View Tumblr](http://hayleyygregg.tumblr.com)
+
 * Github Contributions From Start of Semester - 01 January:
 
 ![Github Contributions](github.png)
